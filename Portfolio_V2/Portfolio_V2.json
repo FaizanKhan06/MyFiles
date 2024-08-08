@@ -1,0 +1,102 @@
+{
+    "Experience": [
+        {
+            "company": "Bharat Electronics Limited",
+            "role": "Software Developer Intern",
+            "duration": "Aug - Sept 2023",
+            "description": "Developed an NMS Topology System, a robust tool designed for creating a variety of topology diagrams to meet diverse network management needs. The system features a user-friendly interface for designing and customizing diagrams. My responsibilities included developing an intuitive UI for diagram customization, building reusable components, managing state changes, and optimizing the UI to ensure both performance and scalability.",
+            "technology": [
+                "React JS",
+                "Tailwind CSS",
+                "MUI Components",
+                "MongoDB"
+            ]
+        },
+        {
+            "company": "PHN Technologies",
+            "role": "Web Developer Intern",
+            "duration": "April - June 2023",
+            "description": "Developed an online shopping app website that utilizes various client-side tools to provide a seamless and engaging user experience. The website features a responsive design, intuitive navigation, and robust search functionality, allowing users to easily find and purchase products. My responsibilities included implementing robust search functionality and filtering options, ensuring seamless navigation and checkout processes, and implementing security measures to protect user data.",
+            "technology": [
+                "React JS",
+                "Tailwind CSS",
+                "Node.js",
+                "REST API",
+                "Payment Gateway API"
+            ]
+        }
+    ],
+    "ProjectsDisplay": [
+        {
+            "name": "Portfolio Website",
+            "description": "A personal portfolio website showcasing my skills, experience, and projects.",
+            "techStack": [
+                "React",
+                "JavaScript",
+                "CSS"
+            ],
+            "link": "https://faizan-portfolio.com"
+        },
+        {
+            "name": "E-Commerce Platform",
+            "description": "A fully functional e-commerce platform with a user-friendly interface and secure payment gateway.",
+            "techStack": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "React"
+            ],
+            "link": "https://faizan-ecommerce.com"
+        }
+    ],
+    "ProjectsArchive": [
+        {
+            "name": "Weather App",
+            "description": "A simple weather application that fetches data from a public API and displays the current weather for any location.",
+            "techStack": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "name": "Task Manager",
+            "description": "A task management tool to organize and prioritize tasks with features like drag-and-drop and due date reminders.",
+            "techStack": [
+                "Vue.js",
+                "Firebase"
+            ],
+            "link": "https://faizan-taskmanager.com"
+        }
+    ],
+    "Skills": [
+        {
+            "name": "Programming Languages",
+            "details": [
+                "JavaScript",
+                "Python",
+                "Java"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "details": [
+                "React",
+                "Node.js",
+                "Express",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Tools & Platforms",
+            "details": [
+                "Git",
+                "Docker",
+                "AWS",
+                "Jenkins"
+            ]
+        }
+    ]
+}
