@@ -10,7 +10,8 @@
                 "Tailwind CSS",
                 "MUI Components",
                 "MongoDB"
-            ]
+            ],
+            "link":"https://bel-india.in/"
         },
         {
             "company": "PHN Technologies",
@@ -23,7 +24,8 @@
                 "Node.js",
                 "REST API",
                 "Payment Gateway API"
-            ]
+            ],
+            "link":"https://phntechnology.com/"
         }
     ],
     "ProjectsDisplay": [
