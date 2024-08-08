@@ -1,7 +1,7 @@
 {
     "Experience": [
         {
-            "company": "Bharat Electronics Limited",
+            "company": "Bharat Electronics Ltd.",
             "role": "Software Developer Intern",
             "duration": "Aug - Sept 2023",
             "description": "Developed an NMS Topology System, a robust tool designed for creating a variety of topology diagrams to meet diverse network management needs. The system features a user-friendly interface for designing and customizing diagrams. My responsibilities included developing an intuitive UI for diagram customization, building reusable components, managing state changes, and optimizing the UI to ensure both performance and scalability.",
