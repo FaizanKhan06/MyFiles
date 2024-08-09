@@ -30,25 +30,26 @@
     ],
     "ProjectsDisplay": [
         {
-            "name": "Portfolio Website",
-            "description": "A personal portfolio website showcasing my skills, experience, and projects.",
+            "name": "File Sharing Website(P2P)",
+            "image": "",
+            "description": "Developed an application that leverages advanced web technologies to provide a user-friendly and efficient platform for transferring files without the need for external servers. The system includes real-time device discovery and peer-to-peer (P2P) connections for a smooth sharing experience. My responsibilities included developing a responsive web interface for real-time device discovery and file sharing, implementing secure P2P connections using WebRTC for direct file transfers, and creating a robust backend system to manage device connections and data transfer protocols.",
             "techStack": [
-                "React",
-                "JavaScript",
-                "CSS"
+                "React.js", "Node.js", "Web Sockets", "Docker", "WebRTC"
             ],
-            "link": "https://faizan-portfolio.com"
+            "link": "https://github.com/FaizanKhan06/File-Sharing-Application-P2P"
         },
         {
-            "name": "E-Commerce Platform",
-            "description": "A fully functional e-commerce platform with a user-friendly interface and secure payment gateway.",
-            "techStack": [
-                "Node.js",
-                "Express",
-                "MongoDB",
-                "React"
+            "name": "Fire Detection and Precision Sprinkler System",
+            "image": "",
+            "description": "The Real-Time Fire Detection and Precision Sprinkler System is a cutting-edge solution that utilizes advanced technologies to detect fires and extinguish them effectively. The system comprises sensors, cameras, and sprinklers that work in tandem to identify potential fire hazards, alert authorities, and deploy targeted water spray patterns to suppress fires. My responsibilities included developing an algorithm for real-time fire detection using computer vision, implementing a precision control system for targeted sprinkler activation, and creating an alert system for notifying authorities and building occupants.",
+            "technology": [
+                "Python",
+                "Flask",
+                "OpenCV",
+                "Raspi OS",
+                "HuggingFace API Integration"
             ],
-            "link": "https://faizan-ecommerce.com"
+            "link": "https://github.com/FaizanKhan06/Fire-Detection-and-Precision-Sprinkler-System"
         }
     ],
     "ProjectsArchive": [
