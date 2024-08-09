@@ -106,6 +106,7 @@
                 "CSS",
                 "JavaScript"
             ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         },
         {
@@ -117,6 +118,7 @@
                 "CSS",
                 "JavaScript"
             ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         },
         {
@@ -128,6 +130,7 @@
                 "CSS",
                 "JavaScript"
             ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         },
         {
@@ -139,6 +142,7 @@
                 "CSS",
                 "JavaScript"
             ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         },
         {
@@ -150,6 +154,7 @@
                 "CSS",
                 "JavaScript"
             ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         },
         {
@@ -161,28 +166,7 @@
                 "CSS",
                 "JavaScript"
             ],
-            "link": "https://faizan-weatherapp.com"
-        },
-        {
-            "project": "Weather App",
-            "year": "",
-            "madeAt": "",
-            "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "link": "https://faizan-weatherapp.com"
-        },
-        {
-            "project": "Weather App",
-            "year": "",
-            "madeAt": "",
-            "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
+            "linkName": "github",
             "link": "https://faizan-weatherapp.com"
         }
     ],
