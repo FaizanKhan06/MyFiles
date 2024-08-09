@@ -34,12 +34,12 @@
         "codePen":{
               "href": "https://codepen.io/FaizanKhan0611",
               "title": "Mail",
-              "display": true              
+              "display": false              
         },
         "leetcode":{
               "href": "https://leetcode.com/u/faizankhan062002/",
               "title": "Mail",
-              "display": true              
+              "display": false              
         }
     },
     "Experience": [
