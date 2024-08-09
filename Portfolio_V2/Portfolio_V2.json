@@ -11,7 +11,7 @@
                 "MUI Components",
                 "MongoDB"
             ],
-            "link":"https://bel-india.in/"
+            "link": "https://bel-india.in/"
         },
         {
             "company": "PHN Technologies",
@@ -25,7 +25,7 @@
                 "REST API",
                 "Payment Gateway API"
             ],
-            "link":"https://phntechnology.com/"
+            "link": "https://phntechnology.com/"
         }
     ],
     "ProjectsDisplay": [
@@ -33,8 +33,12 @@
             "name": "File Sharing Website(P2P)",
             "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/P2P%20File%20Sharing.jpg",
             "description": "Developed an application that leverages advanced web technologies to provide a user-friendly and efficient platform for transferring files without the need for external servers. The system includes real-time device discovery and peer-to-peer (P2P) connections for a smooth sharing experience. My responsibilities included developing a responsive web interface for real-time device discovery and file sharing, implementing secure P2P connections using WebRTC for direct file transfers, and creating a robust backend system to manage device connections and data transfer protocols.",
-            "techStack": [
-                "React.js", "Node.js", "Web Sockets", "Docker", "WebRTC"
+            "technology": [
+                "React.js",
+                "Node.js",
+                "Web Sockets",
+                "Docker",
+                "WebRTC"
             ],
             "link": "https://github.com/FaizanKhan06/File-Sharing-Application-P2P"
         },
@@ -43,7 +47,9 @@
             "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/pacman%20Game.gif",
             "description": "This Pacman game was implemented using GLUT and OpenGL. It features a classic arcade-style Pacman experience where the player controls the iconic Pacman character, navigating through a maze, collecting dots, and avoiding ghosts. The game includes animated Pacman movement, three lives, and four ghosts that chase the player. The game ends when Pacman loses all lives.",
             "technology": [
-                "C++","GLUT","OpenGL"
+                "C++",
+                "GLUT",
+                "OpenGL"
             ],
             "link": "https://github.com/FaizanKhan06/Fire-Detection-and-Precision-Sprinkler-System"
         }
