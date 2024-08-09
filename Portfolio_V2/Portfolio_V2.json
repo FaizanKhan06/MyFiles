@@ -75,33 +75,21 @@
             "link": "https://faizan-taskmanager.com"
         }
     ],
-    "Skills": [
-        {
-            "name": "Programming Languages",
-            "details": [
-                "JavaScript",
-                "Python",
-                "Java"
-            ]
-        },
-        {
-            "name": "Web Development",
-            "details": [
-                "React",
-                "Node.js",
-                "Express",
-                "HTML",
-                "CSS"
-            ]
-        },
-        {
-            "name": "Tools & Platforms",
-            "details": [
-                "Git",
-                "Docker",
-                "AWS",
-                "Jenkins"
-            ]
-        }
-    ]
+    "skills": {
+        "programming_languages": [
+          "Java", "Python", "Golang", "C", "C++", "JavaScript",
+          "TypeScript", "HTML", "CSS", "Sass", "PHP",
+          "Flutter", "Swift"
+        ],
+        "libraries_and_frameworks": [
+          "React", "Next.js", "Node.js", "Express.js", "React Native",
+          "Tailwind CSS", "Styled Components", "MUI", "OpenGL",
+          "Web Sockets", "React Router"
+        ],
+        "tools_and_platforms": [
+          "Git", "GitHub", "Vercel", "WordPress", "Firebase",
+          "SQL", "MongoDB", "Docker", "Figma", "AWS (S3, EC2, DynamoDB)",
+          "Unity", "REST APIs"
+        ]
+    }
 }
