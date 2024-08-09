@@ -1,45 +1,44 @@
 {
-    "Links":{
+    "Links": {
         "mail": {
-              "href": "mailto:faizankhan062002@gmail.com",
-              "title": "Mail",
-              "display": true              
+            "href": "mailto:faizankhan062002@gmail.com",
+            "title": "Mail",
+            "display": true
         },
         "tel": {
-              "href": "tel:+916362630712",
-              "title": "Mail",
-              "display": true              
+            "href": "tel:+916362630712",
+            "title": "Mail",
+            "display": true
         },
         "github": {
-              "href": "https://github.com/FaizanKhan06",
-              "title": "Mail",
-              "display": true              
+            "href": "https://github.com/FaizanKhan06",
+            "title": "Mail",
+            "display": true
         },
         "linkedin": {
-              "href": "https://www.linkedin.com/in/FaizanKhan06/",
-              "title": "Mail",
-              "display": true              
-        },         
-        
-        "twitter":{
-              "href": "https://twitter.com/Khan06Faizan",
-              "title": "Mail",
-              "display": true              
+            "href": "https://www.linkedin.com/in/FaizanKhan06/",
+            "title": "Mail",
+            "display": true
         },
-        "instagram":{
-              "href": "https://instagram.com/khan_faz0611",
-              "title": "Mail",
-              "display": true              
+        "twitter": {
+            "href": "https://twitter.com/Khan06Faizan",
+            "title": "Mail",
+            "display": true
         },
-        "codePen":{
-              "href": "https://codepen.io/FaizanKhan0611",
-              "title": "Mail",
-              "display": false              
+        "instagram": {
+            "href": "https://instagram.com/khan_faz0611",
+            "title": "Mail",
+            "display": true
         },
-        "leetcode":{
-              "href": "https://leetcode.com/u/faizankhan062002/",
-              "title": "Mail",
-              "display": false              
+        "codePen": {
+            "href": "https://codepen.io/FaizanKhan0611",
+            "title": "Mail",
+            "display": false
+        },
+        "leetcode": {
+            "href": "https://leetcode.com/u/faizankhan062002/",
+            "title": "Mail",
+            "display": false
         }
     },
     "Experience": [
@@ -99,9 +98,10 @@
     ],
     "ProjectsArchive": [
         {
-            "name": "Weather App",
-            "description": "A simple weather application that fetches data from a public API and displays the current weather for any location.",
-            "techStack": [
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
                 "HTML",
                 "CSS",
                 "JavaScript"
@@ -109,30 +109,125 @@
             "link": "https://faizan-weatherapp.com"
         },
         {
-            "name": "Task Manager",
-            "description": "A task management tool to organize and prioritize tasks with features like drag-and-drop and due date reminders.",
-            "techStack": [
-                "Vue.js",
-                "Firebase"
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
             ],
-            "link": "https://faizan-taskmanager.com"
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
+        },
+        {
+            "project": "Weather App",
+            "year": "",
+            "madeAt": "",
+            "builtWith": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://faizan-weatherapp.com"
         }
     ],
     "skills": {
         "programming_languages": [
-          "Java", "Python", "Golang", "C", "C++", "JavaScript",
-          "TypeScript", "HTML", "CSS", "Sass", "PHP",
-          "Flutter", "Swift"
+            "Java",
+            "Python",
+            "Golang",
+            "C",
+            "C++",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "Sass",
+            "PHP",
+            "Flutter",
+            "Swift"
         ],
         "libraries_and_frameworks": [
-          "React", "Next.js", "Node.js", "Express.js", "React Native",
-          "Tailwind CSS", "Styled Components", "MUI", "OpenGL",
-          "Web Sockets", "React Router"
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express.js",
+            "React Native",
+            "Tailwind CSS",
+            "Styled Components",
+            "MUI",
+            "OpenGL",
+            "Web Sockets",
+            "React Router"
         ],
         "tools_and_platforms": [
-          "Git", "GitHub", "Vercel", "WordPress", "Firebase",
-          "SQL", "MongoDB", "Docker", "Figma", "AWS (S3, EC2, DynamoDB)",
-          "Unity", "REST APIs"
+            "Git",
+            "GitHub",
+            "Vercel",
+            "WordPress",
+            "Firebase",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "Figma",
+            "AWS (S3, EC2, DynamoDB)",
+            "Unity",
+            "REST APIs"
         ]
     }
 }
