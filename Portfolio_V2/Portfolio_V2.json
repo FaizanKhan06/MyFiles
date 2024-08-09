@@ -93,81 +93,123 @@
                 "GLUT",
                 "OpenGL"
             ],
-            "link": "https://github.com/FaizanKhan06/Fire-Detection-and-Precision-Sprinkler-System"
+            "link": "https://github.com/FaizanKhan06/Pacman_Game_using_glut-Opengl"
         }
     ],
     "ProjectsArchive": [
         {
-            "project": "Weather App",
-            "year": "",
+            "project": "File-Sharing-Application-P2P",
+            "year": "2024",
             "madeAt": "",
             "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "React.js",
+                "Node.js",
+                "Web Sockets",
+                "Docker",
+                "WebRTC"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "GitHub",
+            "link": "https://github.com/FaizanKhan06/File-Sharing-Application-P2P"
         },
         {
-            "project": "Weather App",
-            "year": "",
+            "project": "Fire Detection and Precision Sprinkler System",
+            "year": "2024",
             "madeAt": "",
             "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Python",
+                "OpenCV",
+                "Hugging Face API",
+                "Raspi OS"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "GitHub",
+            "link": "https://github.com/FaizanKhan06/Fire-Detection-and-Precision-Sprinkler-System"
         },
         {
-            "project": "Weather App",
-            "year": "",
+            "project": "Image Editor using Python",
+            "year": "2023",
             "madeAt": "",
             "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Python",
+                "Tkinter",
+                "Numpy",
+                "OpenCV"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "GitHub",
+            "link": "https://github.com/FaizanKhan06/Image-Editor-using-Python"
         },
         {
-            "project": "Weather App",
-            "year": "",
+            "project": "Robotic Arm Simulation",
+            "year": "2023",
             "madeAt": "",
             "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Unity",
+                "C#"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "Robot Arm Simulation (V1.0)",
+            "link": "https://faizankhan06.github.io/Robotic-Arm-Simulation/Builds/V%201.0/"
         },
         {
-            "project": "Weather App",
-            "year": "",
-            "madeAt": "",
+            "project": "Network Topology Builder",
+            "year": "2023",
+            "madeAt": "Bharat Electronics Ltd.",
             "builtWith": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "React JS",
+                "Tailwind CSS",
+                "MUI Components",
+                "MongoDB"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "Network Topology",
+            "link": "https://faizankhan06.github.io/Network-Topology-Builder/build/"
         },
         {
-            "project": "Weather App",
-            "year": "",
+            "project": "Pacman Game",
+            "year": "2023",
             "madeAt": "",
             "builtWith": [
+                "C++",
+                "GLUT",
+                "OpenGL"
+            ],
+            "linkName": "GitHub",
+            "link": "https://github.com/FaizanKhan06/Pacman_Game_using_glut-Opengl"
+        },
+        {
+            "project": "Chess",
+            "year": "2023",
+            "madeAt": "",
+            "builtWith": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "linkName": "Chess",
+            "link": "https://faizankhan06.github.io/Chess/"
+        },
+        {
+            "project": "Delish Food Delivery Application",
+            "year": "2022",
+            "madeAt": "",
+            "builtWith": [
+                "Javascript",
+                "SQL",
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "PHP"
             ],
-            "linkName": "github",
-            "link": "https://faizan-weatherapp.com"
+            "linkName": "Delish",
+            "link": "https://delish-food-delivery.000webhostapp.com/"
+        },
+        {
+            "project": "Student Management System",
+            "year": "2022",
+            "madeAt": "",
+            "builtWith": [
+                "Java",
+                "Java Swing",
+                "Java Applets"
+            ],
+            "linkName": "GitHub",
+            "link": "https://github.com/FaizanKhan06/StudentManagementSystem"
         }
     ],
     "skills": {
