@@ -255,5 +255,17 @@
             "Unity",
             "REST APIs"
         ]
-    }
+    },
+    "pastPortfolios": [
+        {
+            "title": "V1",
+            "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/P2P%20File%20Sharing.jpg",
+            "link": "https://github.com/FaizanKhan06/StudentManagementSystem"
+        },
+        {
+            "title": "V2",
+            "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/P2P%20File%20Sharing.jpg",
+            "link": "https://delish-food-delivery.000webhostapp.com/"
+        }
+    ]
 }
