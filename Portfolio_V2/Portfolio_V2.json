@@ -1,14 +1,17 @@
 {
     "about": [
         {
-      "paragraph": "I specialize in front-end development, particularly with React.js. Recently, I've been working on optimizing UI effects like [hover text interactions](https://example.com/hover-effect) and building animations such as a [sine wave animation](https://example.com/sine-wave)."
-    },
-    {
-      "paragraph": "In addition to React, I also have experience with back-end technologies and version control systems like Git. You can check out my recent work on [GitHub](https://github.com/faizan-example)."
-    },
-    {
-      "paragraph": "If you'd like to connect, feel free to reach out via [LinkedIn](https://linkedin.com/in/faizan-example) or send me an email at [faizan@example.com](mailto:faizan@example.com)."
-    }
+            "paragraph": "I specialize in front-end development, particularly with React.js. Recently, I've been working on optimizing UI effects like [hover text interactions](https://example.com/hover-effect) and building animations such as a [sine wave animation](https://example.com/sine-wave)."
+        },
+        {
+            "paragraph": "In addition to React, I also have experience with back-end technologies and version control systems like Git. You can check out my recent work on [GitHub](https://github.com/faizan-example)."
+        },
+        {
+            "paragraph": "If you'd like to connect, feel free to reach out via [LinkedIn](https://linkedin.com/in/faizan-example) or send me an email at [faizan@example.com](mailto:faizan@example.com)."
+        },
+        {
+            "paragraph": "In my free time, I enjoy (TextHoverAnimation:Red:Hello World),  exploring web, trying new  foods,   playing  football, and  swimming."
+        }
     ],
     "Links": {
         "mail": {
