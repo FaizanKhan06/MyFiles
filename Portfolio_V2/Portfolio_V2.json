@@ -1,4 +1,18 @@
 {
+    "about": [
+        {
+            "paragraph": "Hi, I'm Faizan Khan, a passionate software developer with a focus on creating dynamic and interactive web applications. I have a strong background in computer graphics and have implemented projects like a Pacman game using GLUT and OpenGL."
+        },
+        {
+            "paragraph": "I specialize in front-end development, particularly with React.js. Recently, I've been working on optimizing UI effects like [hover text interactions](https://example.com/hover-effect) and building animations such as a [sine wave animation](https://example.com/sine-wave)."
+        },
+        {
+            "paragraph": "In addition to React, I also have experience with back-end technologies and version control systems like Git. You can check out my recent work on GitHub [here](https://github.com/faizan-example)."
+        },
+        {
+            "paragraph": "If you'd like to connect, feel free to reach out via [LinkedIn](https://linkedin.com/in/faizan-example) or send me an email at [faizan@example.com](mailto:faizan@example.com)."
+        }
+    ],
     "Links": {
         "mail": {
             "href": "mailto:faizankhan062002@gmail.com",
