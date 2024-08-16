@@ -1,4 +1,8 @@
 {
+    "name": "Faizan Khan",
+    "title": "Software Engineer",
+    "subtitle": "I build pixel-perfect, engaging, and accessible digital experiences.",
+    "resume": "https://faizankhan06.github.io/MyFiles/Faizan_CV.pdf",
     "about": [
         {
             "paragraph": "I specialize in front-end development, particularly with React.js. Recently, I've been working on optimizing UI effects like [hover text interactions](https://example.com/hover-effect) and building animations such as a [sine wave animation](https://example.com/sine-wave)."
