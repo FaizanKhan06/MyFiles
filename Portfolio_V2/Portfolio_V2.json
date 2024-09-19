@@ -276,11 +276,6 @@
             "title": "V1",
             "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/Portfolio_V1.png",
             "link": "https://github.com/FaizanKhan06/StudentManagementSystem"
-        },
-        {
-            "title": "V2",
-            "image": "https://faizankhan06.github.io/MyFiles/Portfolio_V2/P2P%20File%20Sharing.jpg",
-            "link": "https://delish-food-delivery.000webhostapp.com/"
         }
     ],
     "footer": "Loosely designed in [Figma](https://www.figma.com/) and brought to life in [Visual Studio Code](https://code.visualstudio.com/) by yours truly, this masterpiece was built with [React.js](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/), and launched into the digital stratosphere via [GitHub Pages](https://pages.github.com/). All text is dressed in the ever-dapper [Inter](https://rsms.me/inter/) typeface—because even code deserves to look good!"
