@@ -92,7 +92,6 @@
             Math.random() * data.profiles.length
           );
 
-          const randomTime = Math.floor(Math.random() * 6 + 1);
           const randomSubreddit = data.subreddits[randomIndexSubreddits];
           const randomIcon = data.icons[randomIndexImages];
           const randomProfile = data.profiles[randomIndexProfiles];
@@ -102,8 +101,10 @@
             randomSubreddit;
           document.getElementById("community-image").src = randomIcon;
           document.getElementById("profile_name").textContent = randomProfile;
-          document.getElementById("time").textContent =
-            randomTime + " days ago";
+          const randomTime = Math.floor(Math.random() * 6) + 1;
+          const timeText = randomTime === 1 ? "day" : "days";
+          document.getElementById("time").textContent = randomTime + " " + timeText + " ago";
+
         })
         .catch((error) => console.error("Error fetching JSON:", error));
     </script>
