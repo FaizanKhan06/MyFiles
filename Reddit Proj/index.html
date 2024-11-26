@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reddit Post Example</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="post-container" class="post-container">
+      <div style="display: flex; gap: 8px">
+        <img
+          id="community-image"
+          style="border-radius: 99px"
+          width="32"
+          height="32"
+          src=""
+        />
+        <div>
+          <div class="post-header">
+            <span id="community-name" class="community"></span>
+            <span class="dot">•</span>
+            <span id="time" class="time">3 days ago</span>
+          </div>
+          <div class="post-author">
+            <span id="profile_name" class="author-name"></span>
+          </div>
+        </div>
+        <div
+          style="
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: auto;
+          "
+        >
+          <span>
+            <span>
+              <svg
+                fill="currentColor"
+                height="16"
+                icon-name="overflow-horizontal-fill"
+                viewBox="0 0 20 20"
+                width="16"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M6 10a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm6 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"
+                ></path>
+              </svg>
+            </span>
+          </span>
+        </div>
+      </div>
+      <div id="title" class="post-title">
+        <!-- The title will be dynamically updated here -->
+      </div>
+    </div>
+
+    <script>
+      // Function to get query parameters from the URL
+      function getQueryParams() {
+        const urlParams = new URLSearchParams(window.location.search);
+        return {
+          postTitle: urlParams.get("postTitle"),
+        };
+      }
+
+      // Get the postTitle from the query string
+      const params = getQueryParams();
+      const postTitle = params.postTitle
+        ? decodeURIComponent(params.postTitle)
+        : "No title provided";
+
+      // Set the post title to the page
+      document.getElementById("title").textContent = postTitle;
+
+      // Fetch JSON data from an external file
+      fetch("data.json")
+        .then((response) => response.json())
+        .then((data) => {
+          // Select a random index
+          const randomIndexSubreddits = Math.floor(
+            Math.random() * data.subreddits.length
+          );
+
+          const randomIndexImages = Math.floor(
+            Math.random() * data.icons.length
+          );
+
+          const randomIndexProfiles = Math.floor(
+            Math.random() * data.profiles.length
+          );
+
+          const randomTime = Math.floor(Math.random() * 6 + 1);
+          const randomSubreddit = data.subreddits[randomIndexSubreddits];
+          const randomIcon = data.icons[randomIndexImages];
+          const randomProfile = data.profiles[randomIndexProfiles];
+
+          // Update the DOM with the random subreddit and icon
+          document.getElementById("community-name").textContent =
+            randomSubreddit;
+          document.getElementById("community-image").src = randomIcon;
+          document.getElementById("profile_name").textContent = randomProfile;
+          document.getElementById("time").textContent =
+            randomTime + " days ago";
+        })
+        .catch((error) => console.error("Error fetching JSON:", error));
+    </script>
+  </body>
+</html>
