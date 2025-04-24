@@ -59,6 +59,22 @@
     },
     "Experience": [
         {
+            "company": "UST",
+            "role": "Developer - 1: Software Engineering",
+            "duration": "December 2024 - Present",
+            "description": "As a Full-Stack Developer at UST, I was responsible for designing and building scalable, high-performance web applications. My role includes both frontend and backend development, where I leverage Java for the backend and work with modern technologies like ReactJS for the frontend. I focus on ensuring seamless integration between client-side and server-side systems while delivering efficient and robust solutions.",
+            "technology": [
+                "React JS",
+                "AWS",
+                "Docker",
+                "Jenkins",
+                "CICD",
+                "Java-Springboot",
+                "REST API"
+            ],
+            "link": "https://www.ust.com/"
+        },
+        {
             "company": "Bharat Electronics Ltd.",
             "role": "Software Developer Intern",
             "duration": "Aug - Sept 2023",
