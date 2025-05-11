@@ -3,11 +3,11 @@ Github:
 ```
 https://github.com/FaizanKhan06
 ```
-Linkedin:
+Portfolio:
 ```
 https://faizan-khan-portfolio.vercel.app/
 ```
-Portfolio:
+Linkedin:
 ```
 https://www.linkedin.com/in/faizankhan06/
 ```
@@ -38,6 +38,16 @@ Implemented key features such as product filtering, cart management, and categor
 Ensured cross-platform compatibility with full mobile responsiveness across major browsers and devices.
 Built backend functionality and integrated APIs using Node.js, enabling realtime product search and user sessions.
 Participated in Agile sprint reviews and standups to demonstrate progress.
+```
+# Address
+```
+No 17, 2nd Main Kenchappa Garden, Chamundi Nagar Main Road, Rt Nagar.
+```
+```
+Bangalore
+```
+```
+560032
 ```
 # Education
 ```
